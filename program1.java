@@ -1,3 +1,7 @@
+/*
+program to print WORD
+*/
+
 package pr;
 import java.util.*;
 
